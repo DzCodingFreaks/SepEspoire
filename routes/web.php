@@ -14,3 +14,17 @@
 Route::get('/', function () {
     return view('home');
 });
+
+
+Route::get('/maladie',function(){
+    return view('maladie');
+});
+
+Route::get('/association',function(){
+    return view('association');
+});
+
+
+Route::get('/services',function(){
+    return view('services');
+});

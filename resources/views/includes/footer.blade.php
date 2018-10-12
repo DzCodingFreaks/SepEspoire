@@ -37,7 +37,7 @@
         <div class="row">
             <div class="column width-12">
                 <div class="footer-bottom-inner">
-                    <p class="copyright center">&copy; ThemeMountain. All Rights Reserved.</p>
+                    <p class="copyright center">&copy; SEP ESPOIRE. Tous les droits réservé.</p>
                 </div>
             </div>
         </div>
