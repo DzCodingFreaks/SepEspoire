@@ -35,7 +35,7 @@
 															<span>
 																<small>Aidez nous ^^</small>Donation
 															</span>
-														</span>
+													</span>
 													</a>
 													<!-- modal window -->
 													<div id="promotion-modal" class="hide">

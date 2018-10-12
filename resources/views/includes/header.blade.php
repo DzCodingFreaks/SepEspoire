@@ -34,7 +34,15 @@
                                 <!-- Donate nav-button -->
                                 <div class="v-align-middle">
                                     <div class="dropdown">
-                                        <a href="#" class="button small rounded no-page-fade no-label-on-mobile no-margin-bottom"><span class="icon-awareness-ribbon"> </span><span> My Account</span></a>
+                                            <a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded small bkg-theme bkg-hover-theme color-white color-hover-white"
+                                            >
+                                            <span class="button-content">
+                                                    <span class="icon-awareness-ribbon medium left"></span>
+                                                    <span>
+                                                        <small>Aidez nous ^^</small>Donation
+                                                    </span>
+                                            </span>
+                                            </a>
                                         <div class="dropdown-list custom-content">
                                             <h5>Access Your Account</h5>
                                         </div>
@@ -52,16 +60,16 @@
                     <nav class="navigation nav-block primary-navigation nav-right">
                         <ul>
                             <li class="current">
-                                <a href="index.html">Accueil</a>
+                                <a href="/">Accueil</a>
                             </li>
                             <li class="">
-                                <a href="about-style-one.html">Association</a>
+                                <a href="/association">Association</a>
                             </li>
                             <li>
-                                <a href="about-style-one.html">Maladie</a>
+                                <a href="/maladie">Maladie</a>
                             </li>
                             <li class="">
-                                <a href="portfolio-three-columns.html">Services</a>
+                                <a href="/services">Services</a>
                             </li>
                         </ul>
                     </nav>
