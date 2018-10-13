@@ -32,10 +32,10 @@
                                             <div>
                                                 <ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
                                                     <li>
-                                                        <a href="index.html">Home</a>
+                                                        <a href="index.html">Accueil</a>
                                                     </li>
                                                     <li>
-                                                        About Us
+                                                        Services
                                                     </li>
                                                 </ul>
                                             </div>

@@ -35,10 +35,10 @@
 												<div>
 													<ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
 														<li>
-															<a href="index.html">Home</a>
+															<a href="index.html">Accueil</a>
 														</li>
 														<li>
-															About Us
+															Maladie
 														</li>
 													</ul>
 												</div>
@@ -56,7 +56,7 @@
 						<div class="column width-6 push-5 offset-1">
 							<div class="feature-image mb-mobile-50">
 								<div class="feature-image-inner center-on-mobile horizon" data-animate-in="preset:slideInRightShort;duration:1000;" data-threshold="0.6">
-									<img src="images/generic/feature-1.jpg" alt="" />
+									<img src="images/hero_maladie1.jpg" alt="" />
 								</div>
 							</div>
 						</div>
@@ -182,7 +182,7 @@
 						<div class="column width-6">
 							<div class="feature-image">
 								<div class="feature-image-inner center-on-mobile horizon" data-animate-in="preset:slideInLeftShort;duration:1000;" data-threshold="0.6">
-									<img src="images/generic/feature-2.jpg" alt="" />
+									<img src="images/hero_maladie2.jpg" alt="" />
 								</div>
 							</div>
 						</div>

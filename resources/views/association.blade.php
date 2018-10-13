@@ -35,10 +35,10 @@
                                             <div>
                                                 <ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
                                                     <li>
-                                                        <a href="index.html">Home</a>
+                                                        <a href="index.html">Accueil</a>
                                                     </li>
                                                     <li>
-                                                        About Us
+                                                        Association
                                                     </li>
                                                 </ul>
                                             </div>
@@ -67,19 +67,11 @@
                             <div class="tm-slider-container content-slider mb-0 lazyload resizing" data-animation="slide" data-nav-show-on-hover="false" data-nav-pagination="false" data-scale-min-height="100" data-scale-under="960" data-width="920" data-height="516" style="width: 1110px; height: 623px;">
                                 <ul class="tms-slides">
                                     <li class="tms-slide tms-forcefit img-loaded" data-image="" data-force-fit="" id="tms-slide-1" style="transition-property: transform, opacity; transition-duration: 700ms; transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); transition-delay: 0ms; opacity: 1; transform: translate3d(-1110px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); transform-origin: 50% 50% 0px; visibility: hidden; z-index: 1;">
-                                        <img data-src="images/portfolio/projects/project-5-1.jpg" data-retina="" src="images/portfolio/projects/project-5-1.jpg" class="rounded" alt="" style="opacity: 1; width: 1110px; height: 623px; top: 0px; left: 0px;">
-                                    </li>
-                                    <li class="tms-slide tms-forcefit img-loaded active" data-image="" data-force-fit="" id="tms-slide-2" style="transition-property: transform, opacity; transition-duration: 700ms; transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); transition-delay: 0ms; opacity: 1; z-index: 2; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); transform-origin: 50% 50% 0px; visibility: visible;">
-                                        <img data-src="images/portfolio/projects/project-5-2.jpg" data-retina="" src="images/portfolio/projects/project-5-2.jpg" class="rounded" alt="" style="opacity: 1; width: 1110px; height: 623px; top: 0px; left: 0px;">
-                                    </li>
-                                    <li class="tms-slide tms-forcefit img-loaded" data-image="" data-force-fit="" id="tms-slide-3" style="transition: none 0s ease 0s; opacity: 0;">
-                                        <img data-src="images/portfolio/projects/project-5-3.jpg" data-retina="" src="images/portfolio/projects/project-5-3.jpg" class="rounded" alt="" style="opacity: 1; width: 1110px; height: 623px; top: 0px; left: 0px;">
-                                    </li>
-                                    <li class="tms-slide bkg-black" data-as-bkg-image="" data-video="" data-pause-on-scroll="" data-auto-play="" data-replay-on-end="" data-overlay-bkg-color="#000000" data-overlay-bkg-opacity="0.5" data-animation="slideLeftRight" id="tms-slide-4" style="background-image: url(&quot;undefined&quot;);">
-                                        <iframe src="https://player.vimeo.com/video/169675730?&amp;amp;player_id=video-1539358416636" class="rounded vimeo" id="video-1539358416636" style="width: 1110px; height: 624px; top: -1px; left: 0px; opacity: 1;" data-ready="true"></iframe>
+                                        <img data-src="images/sep1.jpg" data-retina="" src="images/portfolio/projects/project-5-1.jpg" class="rounded" alt="" style="opacity: 1; width: 1110px; height: 623px; top: 0px; left: 0px;">
                                     </li>
                                 </ul>
-                            <a href="#" id="tms-prev" class="tms-arrow-nav" style="display: block;"></a><a href="#" id="tms-next" class="tms-arrow-nav" style="display: block;"></a></div>
+                            <!--<a href="#" id="tms-prev" class="tms-arrow-nav" style="display: block;"></a><a href="#" id="tms-next" class="tms-arrow-nav" style="display: block;"></a>-->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -91,7 +83,7 @@
                             <div class="box rounded xlarge shadow color-white horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:800ms;" data-threshold="1" style="background-color:#266EA3; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
                                     <div>
                                         <center>
-                                        <span class="icon-dribbble xlarge"></span>
+                                        <span class="icon-eye xlarge"></span>
                                         <h3 class="margin-top">Nos visions</h3>
                                         <ul>
                                             <li>Contribuer pour un avenir meilleur pour les malades atteints de la Sclérose en plaques.</li>
@@ -106,7 +98,7 @@
                         <div class="column width-6">
                                 <div class="box rounded xlarge shadow color-white horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1" style="background-color:#408DC0; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
                                     <center>
-                                            <span class="icon-dribbble xlarge"></span>
+                                            <span class="icon-hair-cross xlarge"></span>
                                             <h3 class="margin-top">Nos objectifs</h3>
                                             <p>Vous avez certainement entendu parler de la Sclérose en plaques auparavant mai vous ne savez pas très bien e quoi il s’agit <span style="font-weight:600;">SEP ESPOIR</span> est là pour vous aider à mieux comprendre cette maladie, pour vous informer sur l’actualité e la recherche sur la SEP et vous Soutenir</p>
                                             <ul>
@@ -121,7 +113,7 @@
                         </div>
                 </div>
                 <div class="row flex boxes">
-                        <div class="column width-10 offset-1">
+                        <div class="column width-12">
                             <div class="box rounded xlarge shadow color-white horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:800ms;" data-threshold="1" style="background-color:#266EA3; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
                                     <div>
                                         <center>

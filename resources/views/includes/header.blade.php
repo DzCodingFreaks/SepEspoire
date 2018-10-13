@@ -43,9 +43,6 @@
                                                     </span>
                                             </span>
                                             </a>
-                                        <div class="dropdown-list custom-content">
-                                            <h5>Access Your Account</h5>
-                                        </div>
                                     </div>
                                 </div>
                             </li>

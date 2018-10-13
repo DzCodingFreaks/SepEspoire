@@ -43,7 +43,8 @@
 															<!-- Hero 5 Promo Custom Section -->
 															<div class="section-block hero-5 hero-5-2 pb-mobile-20 show-media-column-on-mobile">
 																<div class="media-column width-5">
-																	<div class="media-overlay bkg-black opacity-01"></div>
+																	<div class="media-overlay" style="background-image: url('images/modal.jpg'); background-size:cover; background-position:center; background-repeat:no-repeat">
+																	</div>
 																</div>
 																<div class="row">
 																	<div class="column width-5 offset-6">
@@ -70,7 +71,7 @@
 											</div>
 										</div>
 									</div>
-									<img data-src="images/test_slider.jpg" data-retina src="images/blank.png" alt=""/>
+									<img data-src="images/slider1.jpg" data-retina src="images/blank.png" alt=""/>
 								</li>
 								<li class="tms-slide" data-image data-force-fit data-animation="slideLeftRight" data-overlay-bkg-color="#000000" data-overlay-bkg-opacity="0.3">
 									<div class="tms-content">
@@ -93,7 +94,7 @@
 											</div>
 										</div>
 									</div>
-									<img data-src="images/test_slider2.jpg" data-retina src="images/blank.png" alt=""/>
+									<img data-src="images/slider2.jpg" data-retina src="images/blank.png" alt=""/>
 								</li>
 								<li class="tms-slide" data-image data-force-fit data-animation="slideLeftRight" data-overlay-bkg-color="#000000" data-overlay-bkg-opacity="0.3">
 										<div class="tms-content">
@@ -116,7 +117,7 @@
 												</div>
 											</div>
 										</div>
-										<img data-src="images/test_slider2.jpg" data-retina src="images/blank.png" alt=""/>
+										<img data-src="images/slider3.jpg" data-retina src="images/blank.png" alt=""/>
 								</li>
 							</ul>
 						</div>
@@ -161,7 +162,7 @@
 							<div class="tm-slider-container content-slider window-height" data-width="722" data-nav-arrows="false" data-nav-show-on-hover="false" data-auto-advance data-auto-advance-interval="4000" data-progress-bar="false" data-speed="1000" data-scale-under="0">
 								<ul class="tms-slides">
 									<li class="tms-slide" data-image data-as-bkg-image data-force-fit data-animation="scaleOut">
-										<img data-src="images/slider/slide-hero-half-2.jpg" data-retina src="images/blank.png" alt=""/>
+										<img data-src="images/hero1.jpg" data-retina src="images/blank.png" alt=""/>
 									</li>
 								</ul>
 							</div>
@@ -174,7 +175,7 @@
 						<div class="tm-slider-container content-slider window-height" data-width="722" data-nav-arrows="false" data-nav-show-on-hover="false" data-auto-advance data-auto-advance-interval="4000" data-progress-bar="false" data-speed="1000" data-scale-under="0">
 							<ul class="tms-slides">
 								<li class="tms-slide" data-image data-as-bkg-image data-force-fit data-animation="scaleOut">
-									<img data-src="images/slider/slide-hero-half-2.jpg" data-retina src="images/blank.png" alt=""/>
+									<img data-src="images/hero2.jpg" data-retina src="images/blank.png" alt=""/>
 								</li>
 							</ul>
 						</div>
