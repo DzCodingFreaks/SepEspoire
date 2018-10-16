@@ -33,17 +33,9 @@
                             <li>
                                 <!-- Donate nav-button -->
                                 <div class="v-align-middle">
-                                    <div class="dropdown">
-                                            <a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded small bkg-theme bkg-hover-theme color-white color-hover-white"
-                                            >
-                                            <span class="button-content">
-                                                    <span class="icon-awareness-ribbon medium left"></span>
-                                                    <span>
-                                                        <small>Aidez nous ^^</small>Donation
-                                                    </span>
-                                            </span>
-                                            </a>
-                                    </div>
+                                    <a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button small rounded no-label-on-mobile no-margin-bottom fade-location">
+                                        Donation
+                                   </a>
                                 </div>
                             </li>
                             <li class="aux-navigation hide">
@@ -74,3 +66,5 @@
         </div>
     </div>
 </header>
+
+

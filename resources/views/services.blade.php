@@ -85,7 +85,7 @@
             <div id="services" class="section-block replicable-content in-view bkg-grey-ultralight">
 					<div class="row">
 						<div class="column width-3">
-							<h2 class="mb-0" style="width:100%; position:relative;">Carte handicapé et carte shifaa <span class="underlined-left-doubled"></span></h2>
+							<h2 class="mb-0" style="width:100%; position:relative;">Carte handicapé et carte shifaa</h2>
 						</div>
 						<div class="column width-8 offset-1">
 							<div class="row">
@@ -127,7 +127,7 @@
             <div id="services" class="section-block replicable-content in-view">
 					<div class="row">
 						<div class="column width-3">
-							<h2 class="mb-0" style="width:100%; position:relative;">SEP ESPOIR<br>Bien être<span class="underlined-left-doubled"></span></h2>
+							<h2 class="mb-0" style="width:100%; position:relative;">SEP ESPOIR<br>Bien être</h2>
 						</div>
 						<div class="column width-8 offset-1">
 							<div class="row">

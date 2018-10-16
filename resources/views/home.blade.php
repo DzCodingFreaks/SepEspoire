@@ -149,7 +149,7 @@
 						<div class="column width-5">
 							<div class="hero-content split-hero-content">
 								<div class="hero-content-inner left horizon" data-animate-in="preset:slideInRightShort;duration:1000ms;" data-threshold="0.5">
-									<h2 class="mb-30 underlined">Qui sommes nous?</h2>
+									<h2 class="mb-30">Qui sommes nous?</h2>
 									<p>C’est une association faites pour les malades atteints de la sclérose en plaques. Créer en 2016. Ayant une vision, un butes et sur tous <span style="font-weight:600; color:#4594C7;">UN ESPOIR</span>.</p>
 									<p>Un de ses importants objectifs est de contribuer pour un avenir meilleur pour les malades atteints de la Sclérose en plaques.</p>
 									<a class="button medium rounded bkg-gradient-custom-blue bkg-hover-theme color-white color-hover-white mb-0 mb-mobile-20 inline lightbox-link" data-lightbox-animation="fade">Association</a>	
@@ -184,7 +184,7 @@
 						<div class="column width-5 offset-7">
 							<div class="hero-content split-hero-content">
 								<div class="hero-content-inner left horizon" data-animate-in="preset:slideInRightShort;duration:1000ms;" data-threshold="0.5">
-									<h2 class="mb-30 underlined-inverted-white">La Sep?</h2>
+									<h2 class="mb-30">La Sep?</h2>
 									<p>La sclérose en plaques est actuellement considérée comme une maladie auto-immune qui s’attaque au système nerveux central (cerveau, moelle épinière et nerfs optiques).</p>
 									<p>C’est une maladie qui peut causer de grave conséquence si elle n’a pas été bien traité ou négliger. La sclérose en plaque ,il est temps de briser le tabou ,d’en parler et d’en mieux connaitre.</p>
 									<a class="button medium rounded bkg-gradient-white-wave-darker bkg-hover-theme color-hover-white mb-0 mb-mobile-20 inline lightbox-link" data-lightbox-animation="fade" style="color:#212325 !important;">Maladie</a>	

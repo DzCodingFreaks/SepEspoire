@@ -57,7 +57,7 @@
             <div class="section-block feature-1 overlap-bottom pb-0">
                 <div class="row">
                     <div class="column width-8 offset-2 center">
-                        <h2 class="mb-20" style="position:relative; text-align:center; width:100%;">Qui sommes nous?<span class="underlined-middle"></span></h2>
+                        <h2 class="mb-20" style="position:relative; text-align:center; width:100%;">Qui sommes nous?</h2>
                         <p class="lead mb-60 opacity-07">Sep Espoir Association :  est une association des malades atteints de la sclérose en plaque ,qui a été créer en Mars 2016 par l’organisation d’une assemblée générale en présence des Membres fondateurs.</p>
                     </div>
                 </div>

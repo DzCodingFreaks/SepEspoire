@@ -63,7 +63,7 @@
 						<div class="column width-5 pull-7">
 							<div class="feature-content">
 								<div class="feature-content-inner horizon" data-animate-in="preset:slideInUpShort;duration:1000;delay:300ms;" data-threshold="0.6">
-									<h2 class="mb-30 underlined">C'est quoi la SP?</h2>
+									<h2 class="mb-30">C'est quoi la SP?</h2>
 									<p class="text-large mb-10">La sclérose en plaques est actuellement considérée comme une maladie auto-immune qui s’attaque au système nerveux central (cerveau, moelle épinière et nerfs optiques). Elle prend pour cible la myéline, gaine protectrice des fibres nerveuses, provoquant de l’inflammation qui entraîne souvent la détérioration de cette substance. La myéline est essentielle à la propagation de l’influx nerveux. Si elle n’est que légèrement détériorée, l’influx se transmet sans trop d’interruptions. Par contre, si la détérioration est importante et si la myéline est remplacée par du tissu cicatriciel, l’influx peut être complètement bloqué, et les fibres nerveuses risquent d’être elles-mêmes altérées.</p>
 								</div>
 							</div>
@@ -79,7 +79,7 @@
 				<div class="section-block replicable-content bkg-grey-ultralight">
 					<div class="row">
 						<div class="column width-4">
-							<h3 class="mb-50" style="width:100%; position:relative;">Connaitre plus <span class="underlined-left"></span></h3>
+							<h3 class="mb-50" style="width:100%; position:relative;">Connaitre plus</h3>
 						</div>
 						<div class="column width-8">
 							<div class="accordion rounded mb-50">
@@ -189,7 +189,7 @@
 						<div class="column width-5 offset-1">
 							<div class="feature-content">
 								<div class="feature-content-inner left horizon" data-animate-in="preset:slideInUpShort;duration:1000;delay:300ms;" data-threshold="0.6">
-									<h2 class="mb-30 underlined-inverted">Mieux-être et mode de vie</h2>
+									<h2 class="mb-30">Mieux-être et mode de vie</h2>
 									<div class="row">
 										<div class="column width-12" style="overflow-y:scroll; height:500px;">
 											<p class="text-large mb-10">L’adoption de bonnes habitudes de vie constitue pour les personnes aux prises avec la SP l’une des façons les plus importantes de prendre en charge la maladie dont elles sont atteintes. Certaines stratégies peuvent notamment leur permettre d’améliorer leur qualité de vie, tels des programmes d’exercices, une alimentation saine, la physiothérapie, la réadaptation, la massothérapie, des tactiques favorisant le sommeil, des techniques de réduction du stress, une planification appropriée permettant l’atteinte d’un équilibre travail-vie personnelle ainsi que diverses autres approches axées sur le mieux-être. Ces stratégies non médicales jouent un rôle clé dans la prise en charge de toutes les formes de SP. En fait, le maintien d’un bon équilibre dans la vie en général constitue le fondement d’une prise en charge adéquate de la SP.
