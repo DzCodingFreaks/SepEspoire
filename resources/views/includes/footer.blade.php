@@ -12,22 +12,16 @@
                     <nav class="navigation nav-block nav-center mb-10">
                         <ul>
                             <li>
-                                <a href="index.html">Accueil</a>
+                                <a href="{{route('home')}}">Accueil</a>
                             </li>
                             <li>
-                                <a href="about-style-one.html">Association</a>
+                                <a href="{{route('association')}}">Association</a>
                             </li>
                             <li>
-                                <a href="services-style-one.html">Maladie</a>
+                                <a href="{{route('maladie')}}">Maladie</a>
                             </li>
                             <li>
-                                <a href="contact-style-one.html">Services</a>
-                            </li>
-                            <li>
-                                <a href="contact-style-one.html">Activités</a>
-                            </li>
-                            <li>
-                                <a href="contact-style-one.html">Nouveautés</a>
+                                <a href="{{route('services')}}">Services</a>
                             </li>
                         </ul>
                     </nav>
@@ -37,7 +31,7 @@
         <div class="row">
             <div class="column width-12">
                 <div class="footer-bottom-inner">
-                    <p class="copyright center">&copy; SEP ESPOIRE. Tous les droits réservé.</p>
+                    <p class="copyright center">&copy; SEP ESPOIR. Tous les droits réservé.</p>
                 </div>
             </div>
         </div>

@@ -24,8 +24,8 @@
                 <div class="column width-12 nav-bar-inner">
                     <div class="logo">
                         <div class="logo-inner">
-                            <a href="index.html" class=""><img src="images/logo-dark.png" alt="Faulkner Logo"></a>
-                            <a href="index.html" class=""><img src="images/logo.png" alt="Faulkner Logo"></a>
+                            <a href="{{route('home')}}" class=""><img src="{{asset('images/logo_sep.png')}}" alt="Faulkner Logo"></a>
+                            <a href="{{route('home')}}" class=""><img src="{{asset('images/logo_sep')}}" alt="Faulkner Logo"></a>
                         </div>
                     </div>
                     <nav class="navigation nav-block secondary-navigation nav-right">
@@ -48,17 +48,17 @@
                     </nav>
                     <nav class="navigation nav-block primary-navigation nav-right">
                         <ul>
-                            <li class="current">
-                                <a href="/">Accueil</a>
+                            <li class="{{ Request::is('/') ? 'current' : '' }}">
+                                <a href="{{route('home')}}">Accueil</a>
                             </li>
-                            <li class="">
-                                <a href="/association">Association</a>
+                            <li class="{{ Request::is('association') ? 'current' : '' }}">
+                                <a href="{{route('association')}}">Association</a>
                             </li>
-                            <li>
-                                <a href="/maladie">Maladie</a>
+                            <li class="{{ Request::is('maladie') ? 'current' : '' }}">
+                                <a href="{{route('maladie')}}">Maladie</a>
                             </li>
-                            <li class="">
-                                <a href="/services">Services</a>
+                            <li class="{{ Request::is('services') ? 'current' : '' }}">
+                                <a href="{{route('services')}}">Services</a>
                             </li>
                         </ul>
                     </nav>

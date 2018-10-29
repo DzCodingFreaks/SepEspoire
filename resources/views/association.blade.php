@@ -35,7 +35,7 @@
                                             <div>
                                                 <ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
                                                     <li>
-                                                        <a href="index.html">Accueil</a>
+                                                        <a href="{{route('home')}}">Accueil</a>
                                                     </li>
                                                     <li>
                                                         Association
@@ -67,7 +67,7 @@
                             <div class="tm-slider-container content-slider mb-0 lazyload resizing" data-animation="slide" data-nav-show-on-hover="false" data-nav-pagination="false" data-scale-min-height="100" data-scale-under="960" data-width="920" data-height="516" style="width: 1110px; height: 623px;">
                                 <ul class="tms-slides">
                                     <li class="tms-slide tms-forcefit img-loaded" data-image="" data-force-fit="" id="tms-slide-1" style="transition-property: transform, opacity; transition-duration: 700ms; transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); transition-delay: 0ms; opacity: 1; transform: translate3d(-1110px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); transform-origin: 50% 50% 0px; visibility: hidden; z-index: 1;">
-                                        <img data-src="images/sep1.jpg" data-retina="" src="images/portfolio/projects/project-5-1.jpg" class="rounded" alt="" style="opacity: 1; width: 1110px; height: 623px; top: 0px; left: 0px;">
+                                        <img data-src="{{asset('images/sep1.jpg')}}" data-retina="" src="{{asset('images/portfolio/projects/project-5-1.jpg')}}" class="rounded" alt="" style="opacity: 1; width: 1110px; height: 623px; top: 0px; left: 0px;">
                                     </li>
                                 </ul>
                             <!--<a href="#" id="tms-prev" class="tms-arrow-nav" style="display: block;"></a><a href="#" id="tms-next" class="tms-arrow-nav" style="display: block;"></a>-->
@@ -80,7 +80,7 @@
             <div class="section-block bkg-grey-ultralight">
                 <div class="row flex boxes">
                         <div class="column width-6">
-                            <div class="box rounded xlarge shadow color-white horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:800ms;" data-threshold="1" style="background-color:#266EA3; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
+                            <div class="box rounded xlarge shadow color-white horizon" style="background-color:#266EA3; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
                                     <div>
                                         <center>
                                         <span class="icon-eye xlarge"></span>
@@ -88,19 +88,18 @@
                                         <ul>
                                             <li>Contribuer pour un avenir meilleur pour les malades atteints de la Sclérose en plaques.</li>
                                             <li>Comprendre cette maladie, pour vous informer sur l’actualité et la recherche sur la SEP et vous Soutenir</li>
-                                            <li>-	La SEP ESPOIR vise aussi la mise en œuvre e son utilité dans l’enceinte des malades de la sclérose en Plaques.</li>
-
+                                            <li>La SEP ESPOIR vise aussi la mise en œuvre e son utilité dans l’enceinte des malades de la sclérose en Plaques.</li>
                                         </ul>
                                         </center>
                                     </div>
                             </div>
                         </div>
                         <div class="column width-6">
-                                <div class="box rounded xlarge shadow color-white horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1" style="background-color:#408DC0; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
+                                <div class="box rounded xlarge shadow color-white horizon" style="background-color:#408DC0; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
                                     <center>
                                             <span class="icon-hair-cross xlarge"></span>
                                             <h3 class="margin-top">Nos objectifs</h3>
-                                            <p>Vous avez certainement entendu parler de la Sclérose en plaques auparavant mai vous ne savez pas très bien e quoi il s’agit <span style="font-weight:600;">SEP ESPOIR</span> est là pour vous aider à mieux comprendre cette maladie, pour vous informer sur l’actualité e la recherche sur la SEP et vous Soutenir</p>
+                                            <p>Vous avez certainement entendu parler de la Sclérose en plaques auparavant mai vous ne savez pas très bien e quoi il s’agit <span style="font-weight:600;">SEP ESPOIR</span> est là pour vous aider à mieux comprendre cette maladie, pour vous informer sur l’actualité de la recherche sur la SEP et vous Soutenir</p>
                                             <ul>
                                                 <li>Coordonner avec les autorités compétentes afin d'améliorer les conditions de santé des malades </li>
                                                 <li>Organiser des ateliers spéciaux pour aider les patients handicapés (MS, SEP) </li>
@@ -114,7 +113,7 @@
                 </div>
                 <div class="row flex boxes">
                         <div class="column width-12">
-                            <div class="box rounded xlarge shadow color-white horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:800ms;" data-threshold="1" style="background-color:#266EA3; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
+                            <div class="box rounded xlarge shadow color-white horizon"  style="background-color:#266EA3; backface-visibility: hidden; transition-property: transform, opacity; transition-duration: 1000ms; transition-timing-function: ease; transition-delay: 200ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1); opacity: 1; visibility: visible; transform-origin: 50% 50% 0px;">
                                     <div>
                                         <center>
                                         <span class="icon-dribbble xlarge"></span>
@@ -141,6 +140,8 @@
 		</div>
 	</div>
 
+
+    @include('includes.modal')
 	<!-- Js -->
 	@include('includes.jsfiles')
 

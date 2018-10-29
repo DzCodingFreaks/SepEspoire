@@ -32,7 +32,7 @@
                                             <div>
                                                 <ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
                                                     <li>
-                                                        <a href="index.html">Accueil</a>
+                                                        <a href="{{route('home')}}">Accueil</a>
                                                     </li>
                                                     <li>
                                                         Services
@@ -166,7 +166,7 @@
 
 		</div>
 	</div>
-
+    @include('includes.modal')
 	<!-- Js -->
 	@include('includes.jsfiles')
 </body>

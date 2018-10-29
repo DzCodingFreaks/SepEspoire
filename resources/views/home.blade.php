@@ -37,64 +37,36 @@
 															</span>
 													</span>
 													</a>
-													<!-- modal window -->
-													<div id="promotion-modal" class="hide">
-														
-															<!-- Hero 5 Promo Custom Section -->
-															<div class="section-block hero-5 hero-5-2 pb-mobile-20 show-media-column-on-mobile">
-																<div class="media-column width-5">
-																	<div class="media-overlay" style="background-image: url('images/modal.jpg'); background-size:cover; background-position:center; background-repeat:no-repeat">
-																	</div>
-																</div>
-																<div class="row">
-																	<div class="column width-5 offset-6">
-																		<div class="hero-content split-hero-content">															
-																			<div class="hero-content-inner left horizon" data-animate-in="preset:slideInRightShort;duration:1000ms;delay:200ms;" data-threshold="0.6">
-																				<h3 class="mb-30">Aidez SEP ESPOIRE</h3>
-																				<p>Votre donation, sauve la vie des autres</p>
-																				<ul>
-																					<li><span class="weight-semi-bold">Rib :</span>004 00431 4100021109 26 CPA</li>
-																					<li><span class="weight-semi-bold">Tel : </span>0668.30.94.02 /0553.32.84.87</li>
-																					<li><span class="weight-semi-bold">Adresse : </span>Bts S1 Hai el Zitoune Maravale,Oran-Algérie</li>
-																				</ul>
-																			</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-														<!-- Hero 5 Promo Custom Section End -->
-										
-													</div>
 													<!--  Modal End -->
 													<div class="clear"></div>
 												</div>
 											</div>
 										</div>
 									</div>
-									<img data-src="images/slider1.jpg" data-retina src="images/blank.png" alt=""/>
+									<img data-src="{{asset('images/slider1.jpg')}}" data-retina src="{{asset('images/blank.png')}}" alt=""/>
 								</li>
 								<li class="tms-slide" data-image data-force-fit data-animation="slideLeftRight" data-overlay-bkg-color="#000000" data-overlay-bkg-opacity="0.3">
 									<div class="tms-content">
 										<div class="tms-content-inner center">
 											<div class="row">
 												<div class="column width-12">
-														<h2 class="color-white mb-0">SEP ESPOIR</h2>
-															<h2 class="color-white weight-semi-bold">Ma vie avec la SEP</h2>
-															<p class="lead color-white">luttons contre les idées reçues sur la maladie.</p>
-															<a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white"
-															>
-															<span class="button-content">
-																	<span class="icon-awareness-ribbon medium left"></span>
-																	<span>
-																		<small>Aidez nous ^^</small>Donation
-																	</span>
+													<h2 class="color-white mb-0">SEP ESPOIR</h2>
+													<h2 class="color-white weight-semi-bold">Ma vie avec la SEP</h2>
+													<p class="lead color-white">luttons contre les idées reçues sur la maladie.</p>
+													<a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white"
+														>
+														<span class="button-content">
+																<span class="icon-awareness-ribbon medium left"></span>
+																<span>
+																	<small>Aidez nous ^^</small>Donation
 																</span>
-															</a>
+															</span>
+														</a>
 												</div>
 											</div>
 										</div>
 									</div>
-									<img data-src="images/slider2.jpg" data-retina src="images/blank.png" alt=""/>
+									<img data-src="{{asset('images/slider2.jpg')}}" data-retina src="{{asset('images/blank.png')}}" alt=""/>
 								</li>
 								<li class="tms-slide" data-image data-force-fit data-animation="slideLeftRight" data-overlay-bkg-color="#000000" data-overlay-bkg-opacity="0.3">
 										<div class="tms-content">
@@ -117,7 +89,7 @@
 												</div>
 											</div>
 										</div>
-										<img data-src="images/slider3.jpg" data-retina src="images/blank.png" alt=""/>
+										<img data-src="{{asset('images/slider3.jpg')}}" data-retina src="{{asset('images/blank.png')}}" alt=""/>
 								</li>
 							</ul>
 						</div>
@@ -148,11 +120,11 @@
 					<div class="row">
 						<div class="column width-5">
 							<div class="hero-content split-hero-content">
-								<div class="hero-content-inner left horizon" data-animate-in="preset:slideInRightShort;duration:1000ms;" data-threshold="0.5">
+								<div class="hero-content-inner left horizon" data-animate-in="preset:slideInLeftShort;duration:1000ms;" data-threshold="0.5">
 									<h2 class="mb-30">Qui sommes nous?</h2>
 									<p>C’est une association faites pour les malades atteints de la sclérose en plaques. Créer en 2016. Ayant une vision, un butes et sur tous <span style="font-weight:600; color:#4594C7;">UN ESPOIR</span>.</p>
 									<p>Un de ses importants objectifs est de contribuer pour un avenir meilleur pour les malades atteints de la Sclérose en plaques.</p>
-									<a class="button medium rounded bkg-gradient-custom-blue bkg-hover-theme color-white color-hover-white mb-0 mb-mobile-20 inline lightbox-link" data-lightbox-animation="fade">Association</a>	
+									<a href="{{route('association')}}" class="button medium rounded bkg-gradient-custom-blue bkg-hover-theme color-white color-hover-white mb-0 mb-mobile-20 inline" data-lightbox-animation="fade">Association</a>	
 								</div>
 							</div>
 						</div>
@@ -162,7 +134,7 @@
 							<div class="tm-slider-container content-slider window-height" data-width="722" data-nav-arrows="false" data-nav-show-on-hover="false" data-auto-advance data-auto-advance-interval="4000" data-progress-bar="false" data-speed="1000" data-scale-under="0">
 								<ul class="tms-slides">
 									<li class="tms-slide" data-image data-as-bkg-image data-force-fit data-animation="scaleOut">
-										<img data-src="images/hero1.jpg" data-retina src="images/blank.png" alt=""/>
+										<img data-src="{{asset('images/hero1.jpg')}}" data-retina src="{{asset('images/blank.png')}}" alt=""/>
 									</li>
 								</ul>
 							</div>
@@ -175,7 +147,7 @@
 						<div class="tm-slider-container content-slider window-height" data-width="722" data-nav-arrows="false" data-nav-show-on-hover="false" data-auto-advance data-auto-advance-interval="4000" data-progress-bar="false" data-speed="1000" data-scale-under="0">
 							<ul class="tms-slides">
 								<li class="tms-slide" data-image data-as-bkg-image data-force-fit data-animation="scaleOut">
-									<img data-src="images/hero2.jpg" data-retina src="images/blank.png" alt=""/>
+									<img data-src="{{asset('images/hero2.jpg')}}" data-retina src="{{asset('images/blank.png')}}" alt=""/>
 								</li>
 							</ul>
 						</div>
@@ -187,7 +159,7 @@
 									<h2 class="mb-30">La Sep?</h2>
 									<p>La sclérose en plaques est actuellement considérée comme une maladie auto-immune qui s’attaque au système nerveux central (cerveau, moelle épinière et nerfs optiques).</p>
 									<p>C’est une maladie qui peut causer de grave conséquence si elle n’a pas été bien traité ou négliger. La sclérose en plaque ,il est temps de briser le tabou ,d’en parler et d’en mieux connaitre.</p>
-									<a class="button medium rounded bkg-gradient-white-wave-darker bkg-hover-theme color-hover-white mb-0 mb-mobile-20 inline lightbox-link" data-lightbox-animation="fade" style="color:#212325 !important;">Maladie</a>	
+									<a href="{{route('maladie')}}" class="button medium rounded bkg-gradient-white-wave-darker bkg-hover-theme color-hover-white mb-0 mb-mobile-20 inline" data-lightbox-animation="fade" style="color:#212325 !important;">Maladie</a>	
 								</div>
 							</div>
 						</div>
@@ -350,7 +322,7 @@
 
 		</div>
 	</div>
-
+    @include('includes.modal')
 	<!-- Js -->
 	@include('includes.jsfiles')
 </body>

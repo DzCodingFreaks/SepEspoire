@@ -11,20 +11,24 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+Route::get('/', [
+    'uses' => 'NavigationController@home',
+    'as' => 'home'
+]);
 
 
-Route::get('/maladie',function(){
-    return view('maladie');
-});
+Route::get('/maladie', [
+    'uses' => 'NavigationController@maladie',
+    'as' => 'maladie'
+]);
 
-Route::get('/association',function(){
-    return view('association');
-});
+Route::get('/association', [
+    'uses' => 'NavigationController@association',
+    'as' => 'association'
+]);
 
 
-Route::get('/services',function(){
-    return view('services');
-});
+Route::get('/services', [
+    'uses' => 'NavigationController@services',
+    'as' => 'services'
+]);
