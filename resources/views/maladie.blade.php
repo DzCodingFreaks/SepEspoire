@@ -63,7 +63,7 @@
 						<div class="column width-5 pull-7">
 							<div class="feature-content">
 								<div class="feature-content-inner horizon" data-animate-in="preset:slideInUpShort;duration:1000;delay:300ms;" data-threshold="0.6">
-									<h2 class="mb-30">C'est quoi la SP?</h2>
+									<h2 class="mb-30">C'est quoi la SEP?</h2>
 									<p class="text-large mb-10">La sclérose en plaques est actuellement considérée comme une maladie auto-immune qui s’attaque au système nerveux central (cerveau, moelle épinière et nerfs optiques). Elle prend pour cible la myéline, gaine protectrice des fibres nerveuses, provoquant de l’inflammation qui entraîne souvent la détérioration de cette substance. La myéline est essentielle à la propagation de l’influx nerveux. Si elle n’est que légèrement détériorée, l’influx se transmet sans trop d’interruptions. Par contre, si la détérioration est importante et si la myéline est remplacée par du tissu cicatriciel, l’influx peut être complètement bloqué, et les fibres nerveuses risquent d’être elles-mêmes altérées.</p>
 								</div>
 							</div>
@@ -88,16 +88,16 @@
 										<a href="#accordion-1-panel-1">Formes</a>
 										<div id="accordion-1-panel-1">
 											<div class="accordion-content">
-												<p class="lead mb-20">Il existe plusieurs formes de SP:</p>
+												<p class="lead mb-20">Il existe plusieurs formes de SEP:</p>
 												<ul>												
 													<li>Syndrome clinique isolé</li>
-													<li>SP cyclique (poussées-rémissions)</li>
-													<li>SP progressive secondaire</li>
-													<li>SP progressive primaire	</li>
+													<li>SEP cyclique (poussées-rémissions)</li>
+													<li>SEP progressive secondaire</li>
+													<li>SEP progressive primaire	</li>
 												</ul>
 												<br>
-												<p>La forme la plus précoce de la SP est appelée « syndrome clinique isolé (SCI) ». Elle consiste en un épisode unique de symptômes neurologiques évoquant la sclérose en plaques. Souvent, à l’examen des clichés obtenus par IRM, le médecin décèlera la présence d’une seconde anomalie dans le cerveau ou la moelle épinière du patient. La survenue de plusieurs poussées signe la présence de la forme cyclique (poussées-rémissions) de SP, soit le type d’évolution le plus répandu au moment du diagnostic.
-														La forme cyclique (poussées-rémissions) également appelée « SP récurrente-rémittente », se caractérise par des poussées imprévisibles clairement définies (également appelées « crises » ou « attaques ») qui entraînent l’apparition de nouveaux symptômes ou l’aggravation de symptômes existants.
+												<p>La forme la plus précoce de la SEP est appelée « syndrome clinique isolé (SCI) ». Elle consiste en un épisode unique de symptômes neurologiques évoquant la sclérose en plaques. Souvent, à l’examen des clichés obtenus par IRM, le médecin décèlera la présence d’une seconde anomalie dans le cerveau ou la moelle épinière du patient. La survenue de plusieurs poussées signe la présence de la forme cyclique (poussées-rémissions) de SEP, soit le type d’évolution le plus répandu au moment du diagnostic.
+														La forme cyclique (poussées-rémissions) également appelée « SEP récurrente-rémittente », se caractérise par des poussées imprévisibles clairement définies (également appelées « crises » ou « attaques ») qui entraînent l’apparition de nouveaux symptômes ou l’aggravation de symptômes existants.
 												</p>
 											</div>
 										</div>
@@ -106,9 +106,9 @@
 										<a href="#accordion-1-panel-2">Causes</a>
 										<div id="accordion-1-panel-2">
 											<div class="accordion-content">
-												<p class="lead mb-20">Quelles sont les causes des symptômes de la SP?</p>
-												<p>La SP prend pour cible la myéline, soit la couche protectrice des fibres nerveuses du système nerveux central (SNC), entraînant de l’inflammation qui provoque souvent la détérioration de cette substance sous forme de plaques. Le cas échéant, la propagation de l’influx nerveux le long des fibres nerveuses (axones) est bloquée ou perturbée. La grande diversité des symptômes de la SP pourrait s’expliquer par le fait que la détérioration qui s’ensuit peut survenir dans n’importe quelle région du SNC. Les personnes atteintes de SP ne présentent pas tous les symptômes de cette maladie, et il arrive souvent que ces derniers s’atténuent lors des rémissions.
-														Il existe de nombreuses méthodes de traitement des symptômes de la SP allant de médicaments à des stratégies non médicales telles que la physiothérapie, l’ergothérapie, l’exercice et les thérapies complémentaires et parallèles. Vous trouverez ci-dessous la liste des symptômes les plus fréquents de la SP.
+												<p class="lead mb-20">Quelles sont les causes des symptômes de la SEP?</p>
+												<p>La SEP prend pour cible la myéline, soit la couche protectrice des fibres nerveuses du système nerveux central (SNC), entraînant de l’inflammation qui provoque souvent la détérioration de cette substance sous forme de plaques. Le cas échéant, la propagation de l’influx nerveux le long des fibres nerveuses (axones) est bloquée ou perturbée. La grande diversité des symptômes de la SEP pourrait s’expliquer par le fait que la détérioration qui s’ensuit peut survenir dans n’importe quelle région du SNC. Les personnes atteintes de SEP ne présentent pas tous les symptômes de cette maladie, et il arrive souvent que ces derniers s’atténuent lors des rémissions.
+														Il existe de nombreuses méthodes de traitement des symptômes de la SEP allant de médicaments à des stratégies non médicales telles que la physiothérapie, l’ergothérapie, l’exercice et les thérapies complémentaires et parallèles. Vous trouverez ci-dessous la liste des symptômes les plus fréquents de la SEP.
 												</p>
 												<div class="row">
 													<div class="row flex">
@@ -145,14 +145,14 @@
 										<a href="#accordion-1-panel-3">Symptomes</a>
 										<div id="accordion-1-panel-3">
 											<div class="accordion-content">
-												<p class="lead mb-20">Les symptomes de la SP:</p>
+												<p class="lead mb-20">Les symptomes de la SEP:</p>
 												<p>Les symptômes de la sclérose en plaques sont imprévisibles et très variables d’une personne à l’autre et parfois même chez une même personne, d’une journée ou d’une semaine à l’autre.</p>
-												<p class="lead mb-20">Les symptomes de la SP:</p>
+												<p class="lead mb-20">Les symptomes de la SEP:</p>
 												<ul>												
 													<li>Dysarthrie ou difficulté de l’élocution</li>
 													<li>Dysphagie (difficulté de déglutition)</li>
 													<li>Sécheresse de la bouche</li>
-													<li>Influence hormonale chez les femmes atteintes de SP</li>
+													<li>Influence hormonale chez les femmes atteintes de SEP</li>
 													<li>Expression d’émotions inappropriées</li>
 													<li>Troubles de la coordination ou incoordination</li>
 													<li>Labilité émotionnelle/trouble bipolaire.</li>
@@ -164,8 +164,8 @@
 										<a href="#accordion-1-panel-3">Traitements</a>
 										<div id="accordion-1-panel-3">
 											<div class="accordion-content">
-												<p class="lead mb-20">Comment traiter la SP?</p>
-												<p>Les médicaments prescrits dans le cadre de la prise en charge de la SP peuvent être répartis en plusieurs catégories et agir sur l’évolution de la maladie ou sur les symptômes de celle-ci. On recommande aux personnes atteintes de SP qui explorent les options offertes quant à la prise en charge de cette maladie de rester en étroite communication avec leur équipe soignante.</p>
+												<p class="lead mb-20">Comment traiter la SEP?</p>
+												<p>Les médicaments prescrits dans le cadre de la prise en charge de la SEP peuvent être répartis en plusieurs catégories et agir sur l’évolution de la maladie ou sur les symptômes de celle-ci. On recommande aux personnes atteintes de SEP qui explorent les options offertes quant à la prise en charge de cette maladie de rester en étroite communication avec leur équipe soignante.</p>
 											</div>
 										</div>
 									</li>
@@ -192,9 +192,9 @@
 									<h2 class="mb-30">Mieux-être et mode de vie</h2>
 									<div class="row">
 										<div class="column width-12" style="overflow-y:scroll; height:500px;">
-											<p class="text-large mb-10">L’adoption de bonnes habitudes de vie constitue pour les personnes aux prises avec la SP l’une des façons les plus importantes de prendre en charge la maladie dont elles sont atteintes. Certaines stratégies peuvent notamment leur permettre d’améliorer leur qualité de vie, tels des programmes d’exercices, une alimentation saine, la physiothérapie, la réadaptation, la massothérapie, des tactiques favorisant le sommeil, des techniques de réduction du stress, une planification appropriée permettant l’atteinte d’un équilibre travail-vie personnelle ainsi que diverses autres approches axées sur le mieux-être. Ces stratégies non médicales jouent un rôle clé dans la prise en charge de toutes les formes de SP. En fait, le maintien d’un bon équilibre dans la vie en général constitue le fondement d’une prise en charge adéquate de la SP.
-													Diverses équipes de chercheurs explorent actuellement les façons dont le mode de vie pourrait contribuer à l’apparition de la SP et même aggraver cette maladie. Maintenir un poids santé, ne pas fumer et faire vérifier son taux de vitamine D constituent des mesures proactives visant à prévenir les poussées de SP ainsi qu’à ralentir la progression de la maladie. Veuillez vous reporter à la section « Recherche » pour accéder à la liste des études portant sur ce type de stratégie.
-													Outre l’adoption d’un mode de vie sain, il existe une variété de médecine qui peuvent limiter l’inflammation à l’origine de la détérioration du tissu nerveux et réduire la fréquence et la gravité des poussées de SP. Freiner la détérioration neuronale peut aussi prévenir l’aggravation des incapacités observée au cours de l’évolution de la SP. Un traitement précoce est essentiel dans le cas des personnes qui viennent de recevoir un diagnostic de SP cyclique (poussées-rémissions).
+											<p class="text-large mb-10">L’adoption de bonnes habitudes de vie constitue pour les personnes aux prises avec la SEP l’une des façons les plus importantes de prendre en charge la maladie dont elles sont atteintes. Certaines stratégies peuvent notamment leur permettre d’améliorer leur qualité de vie, tels des programmes d’exercices, une alimentation saine, la physiothérapie, la réadaptation, la massothérapie, des tactiques favorisant le sommeil, des techniques de réduction du stress, une planification appropriée permettant l’atteinte d’un équilibre travail-vie personnelle ainsi que diverses autres approches axées sur le mieux-être. Ces stratégies non médicales jouent un rôle clé dans la prise en charge de toutes les formes de SEP. En fait, le maintien d’un bon équilibre dans la vie en général constitue le fondement d’une prise en charge adéquate de la SEP.
+													Diverses équipes de chercheurs explorent actuellement les façons dont le mode de vie pourrait contribuer à l’apparition de la SEP et même aggraver cette maladie. Maintenir un poids santé, ne pas fumer et faire vérifier son taux de vitamine D constituent des mesures proactives visant à prévenir les poussées de SEP ainsi qu’à ralentir la progression de la maladie. Veuillez vous reporter à la section « Recherche » pour accéder à la liste des études portant sur ce type de stratégie.
+													Outre l’adoption d’un mode de vie sain, il existe une variété de médecine qui peuvent limiter l’inflammation à l’origine de la détérioration du tissu nerveux et réduire la fréquence et la gravité des poussées de SEP. Freiner la détérioration neuronale peut aussi prévenir l’aggravation des incapacités observée au cours de l’évolution de la SEP. Un traitement précoce est essentiel dans le cas des personnes qui viennent de recevoir un diagnostic de SEP cyclique (poussées-rémissions).
 											</p>
 											<ul>												
 												<li>Alimentation</li>

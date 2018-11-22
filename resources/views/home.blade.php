@@ -25,8 +25,9 @@
 										<div class="tms-content-inner center">
 											<div class="row">
 												<div class="column width-12">
+													<h2 class="color-white mb-0" style="font-family:'Noto Kufi Arabic', sans-serif;">جمعية التصلب اللوحي أمل</h2>
 													<h2 class="color-white mb-0">SEP ESPOIR</h2>
-													<h2 class="color-white weight-semi-bold">Ambitions et soutiens moral</h2>
+													<!--<h2 class="color-white weight-semi-bold">Ambitions et soutiens moral</h2>-->
 													<p class="lead color-white">trouver toutes les solutions pour une vie meilleure au quotidien avec la SEP.</p>
 													<a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white"
 													>
@@ -50,8 +51,8 @@
 										<div class="tms-content-inner center">
 											<div class="row">
 												<div class="column width-12">
+													<h2 class="color-white mb-0" style="font-family:'Noto Kufi Arabic', sans-serif;">جمعية التصلب اللوحي أمل</h2>
 													<h2 class="color-white mb-0">SEP ESPOIR</h2>
-													<h2 class="color-white weight-semi-bold">Ma vie avec la SEP</h2>
 													<p class="lead color-white">luttons contre les idées reçues sur la maladie.</p>
 													<a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white"
 														>
@@ -73,18 +74,18 @@
 											<div class="tms-content-inner center">
 												<div class="row">
 													<div class="column width-12">
-															<h2 class="color-white mb-0">SEP ESPOIR</h2>
-																<h2 class="color-white weight-semi-bold">Espoir d’une vie normal</h2>
-																<p class="lead color-white">Ensemble nous sommes plus fort que la SEP.</p>
-																<a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white"
-																>
-																<span class="button-content">
-																		<span class="icon-awareness-ribbon medium left"></span>
-																		<span>
-																			<small>Aidez nous ^^</small>Donation
-																		</span>
-																	</span>
-																</a>
+														<h2 class="color-white mb-0" style="font-family:'Noto Kufi Arabic', sans-serif;">جمعية التصلب اللوحي أمل</h2>
+														<h2 class="color-white mb-0">SEP ESPOIR</h2>
+														<p class="lead color-white">Ensemble nous sommes plus fort que la SEP.</p>
+														<a data-content="inline" data-aux-classes="tml-promotion-modal tml-padding-small tml-swap-exit-light height-auto rounded" data-toolbar="" data-modal-mode data-modal-width="1140" data-modal-animation="scaleIn" data-lightbox-animation="fadeIn" href="#promotion-modal" class="lightbox-link button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white"
+														>
+														<span class="button-content">
+																<span class="icon-awareness-ribbon medium left"></span>
+																<span>
+																	<small>Aidez nous ^^</small>Donation
+																</span>
+															</span>
+														</a>
 													</div>
 												</div>
 											</div>

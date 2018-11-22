@@ -30,6 +30,7 @@
         </div>
         <div class="row">
             <div class="column width-12">
+                <h5 class="center">Dévelopé par <a href="http:\\astrabridge.pro" target="_blank" style="color:#4B9BCD; font-weight:bold;">absolutions</a></h5>
                 <div class="footer-bottom-inner">
                     <p class="copyright center">&copy; SEP ESPOIR. Tous les droits réservé.</p>
                 </div>

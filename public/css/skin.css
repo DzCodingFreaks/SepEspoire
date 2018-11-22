@@ -41,6 +41,7 @@ Copyright: ThemeMountain
 /*------------------------------------------------------------------
 [1. Typography]
 */
+@import url(//fonts.googleapis.com/earlyaccess/notokufiarabic.css); 
 
 body{
 	font-family: 'Hind Madurai', 'Helvetica Neue', sans-serif;
@@ -4858,3 +4859,14 @@ only screen and (				min-resolution: 2dppx) {
 	top: 100px;
 	left: 0%;
 }
+
+
+/* list of arabic fonts */
+/*
+.amiri{font-family: 'Amiri', serif;}
+.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;}
+.droid-arabic-naskh{font-family: 'Droid Arabic Naskh', serif;}
+.lateef{font-family: 'Lateef', serif;}
+.scheherazade{font-family: 'Scheherazade', serif;}
+.thabit{font-family: 'Thabit', serif;}
+*/

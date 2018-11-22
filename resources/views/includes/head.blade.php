@@ -8,6 +8,7 @@
 	
 	<!-- Title &amp; Favicon -->
 	<title>SEP ESPOIR</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="shortcut icon" type="image/png" href="{{asset('images/Sep_favicon.png')}}">
 
 	<!-- Font -->
