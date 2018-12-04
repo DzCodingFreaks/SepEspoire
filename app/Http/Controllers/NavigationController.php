@@ -20,4 +20,8 @@ class NavigationController extends Controller
     public function services(){
         return view('services');
     }
+
+    public function blog(){
+        return view('blog');
+    }
 }

@@ -25,7 +25,7 @@
 										<div class="tms-content-inner center">
 											<div class="row">
 												<div class="column width-12">
-													<h2 class="color-white mb-0" style="font-family:'Noto Kufi Arabic', sans-serif;">جمعية التصلب اللوحي أمل</h2>
+													<h2 class="color-white mb-0" style="font-family:'Noto Kufi Arabic', sans-serif;">جمعية التصلب اللويحي أمل</h2>
 													<h2 class="color-white mb-0">SEP ESPOIR</h2>
 													<!--<h2 class="color-white weight-semi-bold">Ambitions et soutiens moral</h2>-->
 													<p class="lead color-white">trouver toutes les solutions pour une vie meilleure au quotidien avec la SEP.</p>

@@ -60,6 +60,9 @@
                             <li class="{{ Request::is('services') ? 'current' : '' }}">
                                 <a href="{{route('services')}}">Services</a>
                             </li>
+                            <li class="{{ Request::is('blog') ? 'current' : '' }}">
+                                <a href="{{route('blog')}}">Blog</a>
+                            </li>
                         </ul>
                     </nav>
                 </div>

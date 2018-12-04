@@ -48,8 +48,8 @@
 								</div>
 							</div>
 						</div>
-					</div>
-					<!-- Intro Title Section 1 End -->
+				</div>
+				<!-- Intro Title Section 1 End -->
 				<!-- Feature Section 2 -->
 				<div class="section-block feature-2">
 					<div class="row flex">

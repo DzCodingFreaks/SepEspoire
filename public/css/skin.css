@@ -651,6 +651,14 @@ body,
 	color: #4B9BCD;
 }
 
+
+/* under construction image */
+.bkg-under-const{
+	background-image: url('../images/underconstruction.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 /* Gradients */
 .bkg-gradient-heavy-rain{
 	background-image: linear-gradient(125deg, #cfd9df 0%, #e2ebf0 100%) !important;
@@ -659,7 +667,7 @@ body,
 	background-image: linear-gradient(125deg, #5fb4e4 0%, #22689E 100%) !important;
 }
 .bkg-header-image{
-	background-image: url('../images/test_slider.jpg')
+	background-image: url('../images/test_slider.jpg');
 }
 .bkg-gradient-white-wave{
 	background-image: linear-gradient(125deg, #fff 0%, #eee 100%) !important;
@@ -724,6 +732,7 @@ body,
     -webkit-text-fill-color: transparent;
     		text-fill-color: transparent;
 }
+
 
 /*------------------------------------------------------------------
 [3. Section Padding]
@@ -4859,14 +4868,3 @@ only screen and (				min-resolution: 2dppx) {
 	top: 100px;
 	left: 0%;
 }
-
-
-/* list of arabic fonts */
-/*
-.amiri{font-family: 'Amiri', serif;}
-.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;}
-.droid-arabic-naskh{font-family: 'Droid Arabic Naskh', serif;}
-.lateef{font-family: 'Lateef', serif;}
-.scheherazade{font-family: 'Scheherazade', serif;}
-.thabit{font-family: 'Thabit', serif;}
-*/

@@ -22,6 +22,9 @@
                     <li>
                         <a href="{{route('services')}}" class="">Services</a>
                     </li>
+                    <li>
+                        <a href="{{route('blog')}}" class="">Blog</a>
+                    </li>
                 </ul>
             </nav>
             <div class="side-navigation-footer">

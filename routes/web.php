@@ -32,3 +32,17 @@ Route::get('/services', [
     'uses' => 'NavigationController@services',
     'as' => 'services'
 ]);
+
+
+Route::get('/blog',[
+    'uses' => 'AnnouncementsController@index',
+    'as' => 'blog'
+]);
+Route::get('/blog/article/article-{slug}',[
+    'uses' => 'AnnouncementsController@single',
+    'as' => 'blog-single'
+]);
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});

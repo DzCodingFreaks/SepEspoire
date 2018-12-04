@@ -85,18 +85,18 @@
             <div id="services" class="section-block replicable-content in-view bkg-grey-ultralight">
 					<div class="row">
 						<div class="column width-3">
-							<h2 class="mb-0" style="width:100%; position:relative;">Carte handicapé et carte shifaa</h2>
+							<h2 class="mb-0" style="width:100%; position:relative;">Carte handicap et carte shifaa</h2>
 						</div>
 						<div class="column width-8 offset-1">
 							<div class="row">
 								<div class="column width-12">
-                                    <p class="lead mb-50">Déposer le dossier nécessaire en tant que membre de l’association et atteint de la SEP pour bénéficier d’une carte d’handicapé et carte shifaa.</p>
+                                    <p class="lead mb-50">Déposer le dossier nécessaire en tant que membre de l’association et atteint de la SEP pour bénéficier d’une carte d’handicap et carte shifaa.</p>
                                     <h3 class="mb-50 weight-semi-bold">Dossiers a fournir</h3>
 								</div>
 							</div>
 							<div class="row flex">
 								<div class="column width-6">
-                                    <h4 class="mb-30 weight-semi-bold">Carte d’handicapé</h4>
+                                    <h4 class="mb-30 weight-semi-bold">Carte d’handicap</h4>
                                     <ul>
                                         <li>Le questionnaire médical dûment remplis.</li>
                                         <li>Certificat médical.</li>
@@ -110,7 +110,7 @@
 								</div>
 								<div class="column width-6">
 									<h4 class="mb-30 weight-semi-bold">Carte shifaa</h4>
-                                    <li>Carte d’handicapé.</li>
+                                    <li>Carte d’handicap.</li>
                                     <li>Photocopie de la pièce d’identité.</li>
                                     <li>Une extrait de naissance 12.</li>
                                     <li>02 photos spéciales carte shifaa (fond blanc).</li>
@@ -123,8 +123,33 @@
             <!-- End Dossiers -->
 
 
-            <!-- Sport -->
+            <!-- Réeducation -->
             <div id="services" class="section-block replicable-content in-view">
+                <div class="row">
+                    <div class="column width-3">
+                        <h2 class="mb-0" style="width:100%; position:relative;">SEP ET RÉÉDUCATION</h2>
+                    </div>
+                    <div class="column width-8 offset-1">
+                        <div class="row">
+                            <div class="column width-12">
+                                <p class="lead mb-50">La rééducation fait partie intégrante du traitement de la Sclérose en Plaques (SEP) en
+                                    complément des traitements proposés par les Neurologues, avec la poursuite d’une activité
+                                    physique sont recommandées dès l’apparition d’une gêne  qu’elle soit
+                                    (Boiterie, maladresse, chutes, trouble de l’écriture…)
+                                    Elles réduisent la fatigabilité et entretiennent les capacités physiques, cardiovasculaires et
+                                    respiratoires.
+                                    Il est recommandé de pratiquer 2 à 3 séances par semaine de rééducation, voire d’auto-
+                                    rééducation ; Une activité physique peut être pratiquée également 2 à 3 fois par semaine.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End réeducation-->
+
+
+            <!-- Sport -->
+            <div id="services" class="section-block replicable-content in-view bkg-grey-ultralight">
 					<div class="row">
 						<div class="column width-3">
 							<h2 class="mb-0" style="width:100%; position:relative;">SEP ESPOIR<br>Bien être</h2>
@@ -138,18 +163,23 @@
 								</div>
 							</div>
 							<div class="row flex">
-								<div class="column width-6">
+								<div class="column width-4">
                                     <h4 class="mb-30 weight-semi-bold">Des séances d’aqua jim</h4>
                                     <ul>
                                         <li>On met à votre disposition des séances d’aqua jim assisté par un coach professionnel afin que vous puissiez  pratiquer et vous détendre.</li>
                                     </ul>
 								</div>
-								<div class="column width-6">
+								<div class="column width-4">
                                     <h4 class="mb-30 weight-semi-bold">Des séances de YOGA</h4>
                                     <ul>
                                         <li>En effet la relaxation moral est une chose très importante pour avancer dans votre traitement voila pour quoi nos séances de YOGA vous seront organisées.</li>
-                                        <li>Des séances d’Aïkido :
-                                                    Nos séance d’Aïkido pour votre amélioration et développement de santé, assisté par un personnel professionnel.
+                                    </ul>
+                                </div>
+                                <div class="column width-4">
+                                    <h4 class="mb-30 weight-semi-bold">Des séances d’Aïkido</h4>
+                                    <ul>
+                                        <li>
+                                            Nos séance d’Aïkido pour votre amélioration et développement de santé, assisté par un personnel professionnel.
                                         </li>
                                     </ul>
 								</div>
@@ -158,6 +188,10 @@
 					</div>
 			</div>
             <!-- End Sport -->
+            
+
+
+
 
 
 			<!-- Footer -->
